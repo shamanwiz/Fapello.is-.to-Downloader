@@ -3,7 +3,13 @@
 
 Effortlessly download entire model galleries from Fapello.is/.to with this tool written in Python
 
+Buy on Gumroad:
+
+![Buy Now](https://img.shields.io/badge/Buy%20Now-Fapello.is--to--Downloader-brightgreen?style=flat&logo=gumroad)
+
 ---
+### **Screenshots**
+
 
 ### **Features**  
 
@@ -44,7 +50,8 @@ Effortlessly download entire model galleries from Fapello.is/.to with this tool 
 
 ### **Notes**  
 - Failed downloads are typically due to **broken links**, not software issues.  
-- If you wish to re-download files, delete the corresponding log in `/logs`.  
+- If you wish to re-download files, delete the corresponding log in `/logs`.
+- This is a side-project, but I'll do my best to try and implement requested features
 
 ---
 
