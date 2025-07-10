@@ -16,7 +16,7 @@ Effortlessly download entire model galleries from Fapello.is/.to with this tool 
 
 You can get the portable version on Gumroad:
 
-[![Buy Now](https://img.shields.io/badge/Buy%20Now-Fapello.is--.to--Downloader-brightgreen?style=for-the-badge&logo=gumroad)]([https://gumroad.com/tuolink](https://shamanwiz.gumroad.com/l/fapelloistodownloader))
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Fapello.is--.to--Downloader-brightgreen?style=for-the-badge&logo=gumroad)](https://shamanwiz.gumroad.com/l/fapelloistodownloader))
 
 ---
 
