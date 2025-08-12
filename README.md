@@ -14,9 +14,11 @@ Effortlessly download entire model galleries from Fapello.is/.to with this tool 
 
 ### 🔗 Buy & Download
 
-You can get the portable version on Gumroad:
+~You can get the portable version on Gumroad~
 
-[![Buy Now](https://img.shields.io/badge/Buy%20Now-Fapello.is--.to--Downloader-brightgreen?style=for-the-badge&logo=gumroad)](https://shamanwiz.gumroad.com/l/fapelloistodownloader)
+Gumroad has decided to suspend my account for an alleged violation of the Terms and Conditions, yet they have been unable to specify the exact clause that was violated. They have withheld all funds from sales and stopped responding to support emails.
+
+I am working on making the software available on itch.io; users who have already purchased it will receive any future updates without having to buy it again.
 
 ---
 
